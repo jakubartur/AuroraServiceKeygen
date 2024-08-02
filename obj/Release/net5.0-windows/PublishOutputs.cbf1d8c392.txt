@@ -1,0 +1,5 @@
+E:\Aurora-key-genere\AuroraServiceKeygen\publish2\AuroraServiceKeygen.exe
+E:\Aurora-key-genere\AuroraServiceKeygen\publish2\AuroraServiceKeygen.dll
+E:\Aurora-key-genere\AuroraServiceKeygen\publish2\AuroraServiceKeygen.deps.json
+E:\Aurora-key-genere\AuroraServiceKeygen\publish2\AuroraServiceKeygen.runtimeconfig.json
+E:\Aurora-key-genere\AuroraServiceKeygen\publish2\AuroraServiceKeygen.pdb

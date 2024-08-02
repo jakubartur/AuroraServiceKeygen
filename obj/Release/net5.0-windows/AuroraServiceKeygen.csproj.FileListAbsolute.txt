@@ -1,0 +1,16 @@
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\AuroraServiceKeygen.exe
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\AuroraServiceKeygen.deps.json
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\AuroraServiceKeygen.runtimeconfig.json
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\AuroraServiceKeygen.runtimeconfig.dev.json
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\AuroraServiceKeygen.dll
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\ref\AuroraServiceKeygen.dll
+E:\Aurora-key-genere\AuroraServiceKeygen\bin\Release\net5.0-windows\AuroraServiceKeygen.pdb
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.csproj.AssemblyReference.cache
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.AssemblyInfoInputs.cache
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.AssemblyInfo.cs
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.csproj.CoreCompileInputs.cache
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.dll
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\ref\AuroraServiceKeygen.dll
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.pdb
+E:\Aurora-key-genere\AuroraServiceKeygen\obj\Release\net5.0-windows\AuroraServiceKeygen.genruntimeconfig.cache
